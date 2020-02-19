@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  PhotoApp
+
+  Created by wflower on 16/02/2020.
+  Copyright © 2020 waterflower. All rights reserved.
+*/
+
+"camera_button" = "相机";
+"gallery_button" = "照片";
+"last_photo_button" = "最后的照片";
+"share_button" = "分享";
+"select_button" = "选择";
+"selected_button" = "已选";
+"settings_label" = "设置";
+"help_button" = "帮忙";
+"contact_developer_button" = "联络开发人员";
+"share_app_button" = "分享此应用";
+"rate_app_button" = "等级";
+"privacy_button" = "隐私政策";
+"terms_button" = "条款";

@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  PhotoApp
+
+  Created by wflower on 16/02/2020.
+  Copyright © 2020 waterflower. All rights reserved.
+*/
+
+"camera_button" = "Camera";
+"gallery_button" = "Photo";
+"last_photo_button" = "Last Photos";
+"share_button" = "Share";
+"select_button" = "Select";
+"selected_button" = "Selected";
+"settings_label" = "Settings";
+"help_button" = "Help";
+"contact_developer_button" = "Contact Developer";
+"share_app_button" = "Share this app";
+"rate_app_button" = "Rate this app";
+"privacy_button" = "Privacy Policy";
+"terms_button" = "Terms";

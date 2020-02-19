@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-PhotoApp/Pods-PhotoApp-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/CropViewController/TOCropViewControllerBundle.bundle
+${PODS_ROOT}/DKCamera/DKCamera/DKCameraResource.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/DKImagePickerController/DKImagePickerController.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/DKPhotoGallery/DKPhotoGallery.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/ImagePicker/ImagePicker.bundle

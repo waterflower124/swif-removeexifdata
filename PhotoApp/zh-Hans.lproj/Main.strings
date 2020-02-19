@@ -1,0 +1,48 @@
+
+/* Class = "UIButton"; normalTitle = "Terms"; ObjectID = "7nM-49-I4v"; */
+"7nM-49-I4v.normalTitle" = "Terms";
+
+/* Class = "UIButton"; normalTitle = "Rate this app"; ObjectID = "7uO-yL-29b"; */
+"7uO-yL-29b.normalTitle" = "Rate this app";
+
+/* Class = "UIButton"; normalTitle = "Help"; ObjectID = "8T5-p9-rbO"; */
+"8T5-p9-rbO.normalTitle" = "Help";
+
+/* Class = "UILabel"; text = "0% ..."; ObjectID = "9dL-kp-oEB"; */
+"9dL-kp-oEB.text" = "0% ...";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "9k6-6V-4Nd"; */
+"9k6-6V-4Nd.normalTitle" = "Share";
+
+/* Class = "UILabel"; text = "Camera"; ObjectID = "AGn-a6-4uh"; */
+"AGn-a6-4uh.text" = "Camera";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "BW3-Yx-Dq7"; */
+"BW3-Yx-Dq7.normalTitle" = "Share";
+
+/* Class = "UILabel"; text = "0% ..."; ObjectID = "DYu-Gn-2H3"; */
+"DYu-Gn-2H3.text" = "0% ...";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "KOT-dJ-zVP"; */
+"KOT-dJ-zVP.normalTitle" = "Privacy Policy";
+
+/* Class = "UIButton"; normalTitle = "Contact Developer"; ObjectID = "Lcc-T0-1JZ"; */
+"Lcc-T0-1JZ.normalTitle" = "Contact Developer";
+
+/* Class = "UIButton"; normalTitle = "Share this app"; ObjectID = "OIv-0A-R0A"; */
+"OIv-0A-R0A.normalTitle" = "Share this app";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "gNW-E6-8vR"; */
+"gNW-E6-8vR.normalTitle" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "jYE-qH-rh3"; */
+"jYE-qH-rh3.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "sf5-fY-uGh"; */
+"sf5-fY-uGh.text" = "Settings";
+
+/* Class = "UILabel"; text = "Photo"; ObjectID = "whE-iv-ugM"; */
+"whE-iv-ugM.text" = "Photo";
+
+/* Class = "UILabel"; text = "Last Photos"; ObjectID = "wjj-Yv-MKl"; */
+"wjj-Yv-MKl.text" = "Last Photos";
